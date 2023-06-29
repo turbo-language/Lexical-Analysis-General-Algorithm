@@ -49,4 +49,4 @@ The Algorithm can be divided into two parts: a Scanner, and a Analyzer.
 
 ```
 
-The Analysis uses reucrsion for buffer traversal
+The Analysis uses recursion for buffer traversal
